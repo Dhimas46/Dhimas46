@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1-WHdIK40WidUcTi_zQZ822Bexbp_s_xk/view?usp=share_link](https://drive.google.com/file/d/1-WHdIK40WidUcTi_zQZ822Bexbp_s_xk/view?usp=share_link)
 
-- 💬 Ask me about **Codeigniter 4**
+- 💬 Ask me about **Programming System**
 
 - 📫 How to reach me **dhimaswahyu0846@gmail.com**
 
